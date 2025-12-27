@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'v0 App',
-  description: 'Created with DFOURLK',
+  description: 'Created with v0',
   generator: 'orangelk',
   icons: {
     icon: [
